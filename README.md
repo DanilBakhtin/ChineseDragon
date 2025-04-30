@@ -1,7 +1,8 @@
 # Процедурная анимация для китайского дракона
 Данный исходный код разработан в рамках выпускной квалификационной работы (ВКР). В проекте реализована процедурная анимация в режиме реального времени волнообразного движения четырехлапого китайского дракона воздухе и на земле с учетом особенностей рельефа. 
-Ссылка на текст ВКР – [\[ВКР\]]([https://drive.google.com/drive/folders/13zb9z0fob5AFsP5zMjI1rW4lDb6NVeOf?usp=sharing]).
-Ссылка на презентацию ВКР – [\[Презентация\]]([[https://drive.google.com/drive/folders/13zb9z0fob5AFsP5zMjI1rW4lDb6NVeOf?usp=sharing]).
+
+Ссылка на текст ВКР – [ВКР](https://drive.google.com/file/d/19gcF2FEhh4iko4fUZHr-pnCAmuFmMkra/view?usp=drive_link)  
+Ссылка на презентацию ВКР – [Презентация](https://drive.google.com/file/d/19gcF2FEhh4iko4fUZHr-pnCAmuFmMkra/view?usp=sharing) .
 
 # Как запустить
 Для запуска необходимо проделать следующие действия:
